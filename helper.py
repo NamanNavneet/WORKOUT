@@ -103,8 +103,6 @@ def mat():
     st.image("https://post.greatist.com/wp-content/uploads/sites/2/2019/05/HIPSAG.gif",width=350)
     st.markdown(":sports_medal: 51. Russian Twists")
     st.image("https://cdnb.artstation.com/p/assets/images/images/037/471/019/original/digital-artist-russian-twist.gif?1620463601", width=350)
-
-
 def stretch():
     st.title("Stretching")
     st.markdown(":muscle: 1. Child Pose")
@@ -139,7 +137,6 @@ def stretch():
     st.image("https://www.spotebi.com/wp-content/uploads/2014/10/neck-stretch-exercise-illustration.jpg", width=350)
     st.markdown(":muscle: 16. Lying Knee to Chest Stretch")
     st.image("http://s3.amazonaws.com/prod.skimble/assets/2470/skimble-workout-trainer-exercise-lying-left-hamstring-stretch_iphone.jpg", width=350)
-
 def leg():
     st.title("Leg Day")
     st.markdown(":fire: 1. Squat Lunges")
@@ -208,7 +205,6 @@ def leg():
     st.image("https://media2.giphy.com/media/ddR8T7OIILMK8H2YEh/giphy-downsized-large.gif", width=350)
     st.markdown(":fire: 33. Toe touch and hold")
     st.image("https://thumbs.gfycat.com/AccomplishedExaltedAvians-size_restricted.gif", width=350)
-
 def yoga():
     st.title("Yoga Postures")
     st.markdown(":om_symbol: 1. Mountain Pose")
@@ -234,7 +230,6 @@ def yoga():
     st.markdown(":om_symbol: 21. Bow Pose")
     st.markdown(":om_symbol: 22. Pigeon Pose")
     st.markdown(":om_symbol: 23. Butterfly")
-
 def run():
     st.title("Running Exercises")
     st.markdown(":running: 1. Jogging")
@@ -277,7 +272,6 @@ def run():
     st.image("https://images.squarespace-cdn.com/content/v1/578988fe46c3c4caeebf9a64/1511369896810-SRW8XL05YE6DO6KWU025/sorry-image-not-available.png?format=1500w", width=350)
     st.markdown(":running: 20. Twist Reverse")
     st.image("https://images.squarespace-cdn.com/content/v1/578988fe46c3c4caeebf9a64/1511369896810-SRW8XL05YE6DO6KWU025/sorry-image-not-available.png?format=1500w", width=350)
-
 def dumbbells():
     st.title("Dumbbell Exercises")
     st.markdown(":man-lifting-weights: 1. Goblet Squats")
@@ -300,7 +294,6 @@ def dumbbells():
     st.markdown(":man-lifting-weights: 18. Bicep Curls")
     st.markdown(":man-lifting-weights: 19. Bent Over Lateral Press")
     st.markdown(":man-lifting-weights: 20. DB Push-ups")
-
 def gym():
     st.title("Gym Exercises")
     st.write("THIS PAGE IS UNDER CONSTRUCTION AT THE MOMENT.")
